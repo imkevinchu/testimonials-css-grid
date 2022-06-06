@@ -4,6 +4,10 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Overview
 
+### Preview
+
+![](./screenshot.png)
+
 ### The challenge
 
 Users should be able to:
