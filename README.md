@@ -10,9 +10,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-## My process
-
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -20,25 +18,23 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-## Front-end Style Guide
-
-### Layout
+## Layout
 
 The designs were created to the following widths:
 
 - Mobile: 375px
 - Desktop: 1440px
 
-### Colors
+## Colors
 
-#### Primary
+### Primary
 
 Moderate violet: hsl(263, 55%, 52%)
 Very dark grayish blue: hsl(217, 19%, 35%)
 Very dark blackish blue: hsl(219, 29%, 14%)
 White: hsl(0, 0%, 100%)
 
-#### Neutral
+### Neutral
 
 Light gray: hsl(0, 0%, 81%)
 Light grayish blue: hsl(210, 46%, 95%)
