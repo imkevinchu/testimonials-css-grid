@@ -48,7 +48,7 @@ Note for text colors:
 
 ### Body Copy
 
-- Font size: 13px
+- Font size: 14px
 
 ### Font
 
